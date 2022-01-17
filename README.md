@@ -1,2 +1,2 @@
-# JSON_Management
-Manipulação de arquivos JSON usando Python
+### JSON Management System
+#### Sistema de Gerenciamento JSON utilizando Python, feito por https://github.com/sheermxn.
